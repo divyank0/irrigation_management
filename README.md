@@ -1,4 +1,4 @@
-				IRRIGATION MANAGEMENT System
+				IRRIGATION MANAGEMENT SYSTEM
 
 Technology:
 	An agent based model to simulate decision making by multi agents in an environment
