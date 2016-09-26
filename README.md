@@ -1,4 +1,4 @@
-https://github.com/divyank0/irrigation_management.git
+				IRRIGATION MANAGEMENT System
 
 Technology:
 	An agent based model to simulate decision making by multi agents in an environment
