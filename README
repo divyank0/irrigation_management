@@ -1,0 +1,43 @@
+crop stages are five : 1:"initial", 2: "crop development", 3: "mid season", 4: "late season", 5:"ready to harvest"
+
+
+stratergies:
+	 Critical growth approach
+	 Soil moisture depletion approach
+
+
+Given a model:
+	you simulate it for one day
+	upload data in db
+	get new data
+	get new model
+	simulate
+	
+
+
+
+
+
+IDEAS:
+
+crop production as logistic function of water provided ?
+
+Need to model farm/ farmers?
+- it is a social construct.  farms would be differentiated in terms of 
+knowledge and resources available. Further decision making.
+more thoughts needed
+
+water requirement (WR) includes losses during the application of irrigation water to field is ignored
+similary water losses during transporatation of water is ignored
+
+
+
+Questions:
+	How will farm raise its water request to dam.
+	- currently, it call supply object in Model.
+	 In long run I plan to create an demand Object. and dump this info in it.
+	 then optimize supply source to demand points. by some algo. 
+	 
+	policy is one, strategies are multiple. I need to model strategies. right?
+	why I need to model National water agency then?
+	 
